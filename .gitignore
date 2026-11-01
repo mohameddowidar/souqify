@@ -1,0 +1,33 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+hs_err_pid*
+
+# IntelliJ / VS Code
+.idea/
+.run/
+*.iml
+.vscode/
+
+# Node / React (souqify-web)
+node_modules/
+dist/
+build/
+.vite/
+coverage/
+npm-debug.log*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+application-local.properties
+application-local.yml
+
+# OS
+.DS_Store
+Thumbs.db
