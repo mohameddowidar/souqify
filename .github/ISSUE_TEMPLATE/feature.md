@@ -1,4 +1,4 @@
-﻿---
+---
 name: Feature
 about: A unit of work with learning objectives
 labels: feature
